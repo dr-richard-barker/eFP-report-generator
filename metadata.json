@@ -1,0 +1,5 @@
+{
+  "name": "Gene Analysis eFP Report Generator",
+  "description": "An application to automate the analysis of gene or protein lists using simulated ePlant visualizations, generating a detailed report with statistical summaries powered by Gemini.",
+  "requestFramePermissions": []
+}
